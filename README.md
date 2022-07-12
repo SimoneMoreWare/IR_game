@@ -25,6 +25,8 @@ In alto a sinistra dello schermo è presente il livello, in alto a destra il pun
 
 ![alt text](https://i0.wp.com/www.moreware.org/wp/wp-content/uploads/2020/04/gioco.png?resize=768%2C432&ssl=1)
 
+Codice https://github.com/SimoneMoreWare/IR_game/blob/main/irgame.ino
+
 Inoltre per chi fosse interessato è possibile creare una struttura 3D apposita per ospitare tutti i componenti e rendere il gioco più coinvolgente. Per coloro i quali sono intenzionati a creare tale struttura ecco qui il link github per farlo: https://github.com/LuigiMorelli/MoreWare/blob/master/Nano_con_LCD1602.zip
 
 ![alt text](https://i0.wp.com/www.moreware.org/wp/wp-content/uploads/2020/05/3d.jpg?resize=768%2C423&ssl=1)
